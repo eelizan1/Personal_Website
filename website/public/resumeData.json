@@ -55,6 +55,12 @@
     ],
     "work":[
       {
+        "company":"Waste Applications Inc.",
+        "title":"Software Engineer",
+        "years":"June 2017 - January 2018",
+        "description":"As a Software Engineer, I worked within a Web Development team focused on UI / UX enhancements as well as creating and linking to asynchronous RESTful api calls. I leverage my knowledge of responsive design and community frameworks including Bootstrap, JQuery and the MVC Framework of ASP.NET. I utilize my working knowledge and experience with HTML, CSS, JavaScript and C#."
+      },
+      {
         "company":"CETL, Georgia State University, Downtown Campus",
         "title":"Information Technology Support Technician",
         "years":"May 2016 - May 2017",
